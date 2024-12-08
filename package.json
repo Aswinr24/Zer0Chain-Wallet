@@ -14,8 +14,13 @@
   "license": "ISC",
   "dependencies": {
     "@anon-aadhaar/core": "^2.4.2",
+    "@coinbase/coinbase-sdk": "^0.11.2",
+    "@lit-protocol/auth-helpers": "^7.0.1",
+    "@lit-protocol/constants": "^7.0.1",
+    "@lit-protocol/lit-node-client": "^7.0.1",
     "@types/body-parser": "^1.19.5",
     "@types/cors": "^2.8.17",
+    "axios": "^1.7.9",
     "body-parser": "^1.20.3",
     "cors": "^2.8.5",
     "dotenv": "^16.4.7",
