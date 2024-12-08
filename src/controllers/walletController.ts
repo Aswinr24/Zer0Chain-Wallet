@@ -449,7 +449,8 @@ class WalletController {
         transport: http(customChain.rpcUrls.default.http[0]),
       });
 
-      const contractAddress = "0x4511Ad2A72C2d17023A24b2b8957F9F26a4054B9";
+      const contractAddress =
+        "0xd915de2d3a1e75dd16266cd7535567c682c15038d865e2b04d0364eb4750265f";
 
       async function readFromContract() {
         try {
