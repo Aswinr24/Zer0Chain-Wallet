@@ -1,0 +1,3 @@
+[submodule "Zer0Chain_Wallet-FE"]
+	path = Zer0Chain_Wallet-FE
+	url = https://github.com/sanjayh-2022/zer0chain-fe.git
